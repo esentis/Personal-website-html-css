@@ -1,0 +1,83 @@
+
+.myName {
+    color : red;
+    font-weight: 900;
+}
+.nav-link {
+    font-weight:800 ;
+    font-size: 25;
+}
+.homeBody{
+    padding: 15%;
+    margin: 3%;
+}
+.homeLogo{
+    text-align: center;
+}
+.display-4,.lead{
+    text-align: center;
+}
+.myLogo{
+    border-radius: 50%;
+    width: 8%;
+}
+.myLogo:hover {
+    transform: scaleX(-1);
+  }
+.navbar-brand{
+    padding: 0;
+}
+.card-img-top{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.seperator,.seperator-portfolio {
+    border-color: lightblue;
+    opacity: 0.8;
+    border-width: 10px;
+    border-style: dashed;
+    border-top: 0px;
+    border-left: 0;
+    border-right:0;
+    margin: 2% 10% 2% 10%;
+    
+}
+.seperator-portfolio{
+    border-color: lightblue;
+    margin: 2% 30% 2% 30%;
+}
+.foot{
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.footerText{
+    font-weight: 800;
+}
+.portfolio-container,.jobs-container,.aboutme-container{
+    padding: 0 15% 5% 15%;
+   
+}
+.source-code{
+    font-weight: 600;
+}
+.jobs-table{
+    border: solid lightblue;
+    border-radius: 25px;
+}
+.skill-icons{
+    margin: 2%;
+}
+.aboutme-container{
+    background-color: lightblue;
+    border-radius: 25px;
+    margin:0 10% 0 10%;
+    padding-top: 3%;
+}
+.about-me-text {
+    padding-top: 2%;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
